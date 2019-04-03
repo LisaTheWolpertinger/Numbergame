@@ -1,6 +1,6 @@
 import random
 
-randomnumber = random.randint(1,100)
+randomnumber = random.randint(1, 100)
 
 print("Welcome to the great number game! Let's see, if you can guess the number I am thinking about.")
 tip = int(input("Guess a number between 1 and 100: "))
